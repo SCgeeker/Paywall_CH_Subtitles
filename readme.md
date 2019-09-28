@@ -6,6 +6,7 @@ Paywall_The_Business_of_Scholarship_CC_BY_40.zh-tw.full.srt.........有特效中
 Paywall_The_Business_of_Scholarship_CC_BY_40.zh-tw.srt..............youtube版無特效中文字幕
 
 如何觀看有特效中文字幕
-1.下載完整影片：[官方下載網頁](https://archive.org/details/PaywallTheBusinessOfScholarshipFinalMovieMastered)
-2.下載播放軟體。[KMP player免安裝版](https://www.azofreeware.com/2006/03/kmplayer-2911045.html)或[potplayer免安裝版](https://www.azofreeware.com/2008/12/potplayer-1317106.html)
-3.以播放軟體開啟影片後，載入字幕播放。
+1. 下載完整影片：[官方下載網頁](https://archive.org/details/PaywallTheBusinessOfScholarshipFinalMovieMastered)  
+2. 下載播放軟體。[KMP player免安裝版](https://www.azofreeware.com/2006/03/kmplayer-2911045.html)或[potplayer免安裝版](https://www.azofreeware.com/2008/12/potplayer-1317106.html)  
+3. 以播放軟體開啟影片後，載入字幕播放。  
+4. 系統預設字型決定播放字體。  
